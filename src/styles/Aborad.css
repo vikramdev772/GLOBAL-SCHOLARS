@@ -1,0 +1,8 @@
+/* Custom CSS for responsive image width */
+@media (max-width: 768px) {
+    .img-fluid {
+      width: 100% !important;
+      max-width: 300px;
+    }
+  }
+  
